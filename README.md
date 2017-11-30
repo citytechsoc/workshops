@@ -13,3 +13,7 @@
 
 ### Arduino 101 (16/11/17):
 [Workshop held by lecturer Jon Bird](https://drive.google.com/open?id=1UxakKcnludgT2Dnf3GzUlV7M3LJJWAAf)
+
+### API 101 (30/11/17):
+[Complete twitter info site](https://twitter-info.glitch.me/)
+[Uncomplete version if you would like to try it yourself](https://glitch.com/edit/#!/remix/twitter-info-starter)
